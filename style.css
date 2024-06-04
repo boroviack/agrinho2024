@@ -6,7 +6,9 @@ background-color: #1336fd;
 
 header {
 background-color: #ffffff;
-display:flex
+display:flex;
+justify-content: space-between;
+align-items: center;
 }
 
 footer{
@@ -39,5 +41,11 @@ padding:20px ;
 width: 400px;
 height: 400px;
 padding: 20px;
+
+ }
+
+
+ .sobre_texto{
+    text-align: justify;
 
  }
